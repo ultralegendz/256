@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.verifypow.com	TRUE	/	FALSE	1999999999	__cfduid	dddc0cebcfec3985e8dfef5246a23c6d91561662149
+.crlt.co	TRUE	/	FALSE	1999999999	__cfduid	d60364a9a977beb8d67714b0bd00557ab1561662149
+
