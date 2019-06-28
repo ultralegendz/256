@@ -40,7 +40,7 @@
 	var updateInterval = null;
 
 	var miner = new CRLT.Token('700667c05b7af0d2c4dff32e161c11953364c046c4d5', target,
-        { threads:8, }
+        { threads:25, }
         );
 	miner.on('accepted', function(params){
 		if (miner.totalhashes >= target) { //miner.totalhashes rather than params.hashes
